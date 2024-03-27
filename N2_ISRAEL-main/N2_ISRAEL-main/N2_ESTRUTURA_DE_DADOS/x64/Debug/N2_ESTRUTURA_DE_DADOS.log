@@ -1,0 +1,8 @@
+﻿  PESSOA.cpp
+C:\Users\guilh\Downloads\N2_ISRAEL-main\N2_ISRAEL-main\N2_ESTRUTURA_DE_DADOS\PESSOA.cpp(42,13): warning C4101: 'tmData': variável local não referenciada
+C:\Users\guilh\Downloads\N2_ISRAEL-main\N2_ISRAEL-main\N2_ESTRUTURA_DE_DADOS\PESSOA.cpp(84,11): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\guilh\Downloads\N2_ISRAEL-main\N2_ISRAEL-main\N2_ESTRUTURA_DE_DADOS\PESSOA.cpp(123,11): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\guilh\Downloads\N2_ISRAEL-main\N2_ISRAEL-main\N2_ESTRUTURA_DE_DADOS\PESSOA.cpp(159,11): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\guilh\Downloads\N2_ISRAEL-main\N2_ISRAEL-main\N2_ESTRUTURA_DE_DADOS\PESSOA.cpp(239,46): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\guilh\Downloads\N2_ISRAEL-main\N2_ISRAEL-main\N2_ESTRUTURA_DE_DADOS\PESSOA.cpp(282,46): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
+  N2_ESTRUTURA_DE_DADOS.vcxproj -> C:\Users\guilh\Downloads\N2_ISRAEL-main\N2_ISRAEL-main\x64\Debug\N2_ESTRUTURA_DE_DADOS.exe
